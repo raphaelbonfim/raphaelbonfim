@@ -1,4 +1,4 @@
-name: Generate Datas Snake
+name: Generate Datas Snake Animation
 
 on:
   schedule: # execute every 12 hours
