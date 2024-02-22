@@ -31,6 +31,7 @@ Aqui você vai encontrar meus projetos e trabalhos, sinta-se livre pra comentar,
     <a href = "https://www.linkedin.com/in/raphael-bonfim-fernandes/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>      
 </div>
 
+![Snake animation](https://github.com/raphaelbonfim/raphaelbonfim/blob/output/github-contribution-grid-snake.svg)
 
             
           
