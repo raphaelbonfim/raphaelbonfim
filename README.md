@@ -33,7 +33,7 @@ Aqui você vai encontrar meus projetos e trabalhos, sinta-se livre pra comentar,
 
 ##
       
-![Snake animation](https://github.com/raphaelbonfim/raphaelbonfim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raphaelbonfim/blob/output/github-contribution-grid-snake.svg)
 
             
           
