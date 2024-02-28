@@ -4,8 +4,6 @@ Eu sou Raphael Bonfim,
 
 Aqui você vai encontrar meus projetos e trabalhos, sinta-se livre pra comentar, perguntar e corrigir. 
 
-:D
-
 ##
 
 <div style="display : inline_block>
